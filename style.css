@@ -1,0 +1,19 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #b8c0be;
+  width: auto;
+}
+
+.jumbotron img {
+  width: 200px;
+  border: 5px solid rgb(255, 255, 255);
+  text-align: center;
+}
+
+#portfolio {
+  background-color: #b8c0be;
+}
+
+section {
+  padding-top: 6rem;
+}
